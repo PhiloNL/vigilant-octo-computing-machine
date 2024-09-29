@@ -168,5 +168,7 @@
                 </div>
             </div>
         </div>
+
+        @livewire('modal-pro')
     </body>
 </html>
