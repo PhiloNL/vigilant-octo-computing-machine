@@ -166,6 +166,8 @@
             </div>
         </div>
 
+        @vite('resources/js/app.js')
+
         @livewire('modal-pro')
     </body>
 </html>
